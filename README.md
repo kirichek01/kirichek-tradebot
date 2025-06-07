@@ -1,0 +1,2 @@
+# kirichek-tradebot
+1
