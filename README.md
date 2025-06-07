@@ -1,2 +1,0 @@
-# kirichek-tradebot
-1
